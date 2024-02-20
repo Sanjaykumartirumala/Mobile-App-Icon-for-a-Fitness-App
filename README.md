@@ -1,4 +1,5 @@
 # Mobile-App-Icon-for-a-Fitness-App
+click here to goto project: https://github.com/Sanjaykumartirumala/Mobile-App-Icon-for-a-Fitness-App/blob/main/APPICON.png
 Designing an eye-catching icon for a fitness app, conveying health, activity, and motivation. Enhances branding, attracts users, and boosts visibility on app stores and mobile devices.
  
 Project Presentation: "Mobile App Icon for a Fitness App" 
